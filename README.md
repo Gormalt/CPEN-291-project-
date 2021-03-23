@@ -5,6 +5,9 @@ Team Archaeopteryx's class project for CPEN 291, UBC 2020.
 ## Stuff to Install
 
 1. latest version of npm
+2. NodeJS
+3. Yarn package manager
+4. Python3
 
 ## Frontend
 
@@ -16,6 +19,7 @@ Team Archaeopteryx's class project for CPEN 291, UBC 2020.
 
 - shortcut on visual studio code: `Ctrl +Alt + N` starts running code, `Ctrl + Alt + M` stops, links shown in terminal
 - if you are not using VS code, see Flask documentation for starting an app here `https://flask.palletsprojects.com/en/1.1.x/quickstart/`
+  **As of now the backend is a bunch of skeleton code and does not run yet, Phoenix is working on integrating her hummingbird model into the api**
 
 ## ML
 
