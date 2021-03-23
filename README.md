@@ -15,7 +15,7 @@ Team Archaeopteryx's class project for CPEN 291, UBC 2020.
 ## Backend
 
 - shortcut on visual studio code: `Ctrl +Alt + N` starts running code, `Ctrl + Alt + M` stops, links shown in terminal
-- see Flask documentation for starting an app here `https://flask.palletsprojects.com/en/1.1.x/quickstart/`
+- if you are not using VS code, see Flask documentation for starting an app here `https://flask.palletsprojects.com/en/1.1.x/quickstart/`
 
 ## ML
 
